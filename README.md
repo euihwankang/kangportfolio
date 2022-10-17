@@ -1,2 +1,2 @@
 # kangportfolio
-about kang
+https://euihwankang.github.io/kangportfolio/myoldstory/
